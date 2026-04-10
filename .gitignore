@@ -4,3 +4,5 @@ __pycache__
 *.html
 */__pycache__
 try.py
+/.idea
+uv.lock

@@ -1,0 +1,9 @@
+[project]
+name = "1001-tracklists-python"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "fake-headers>=1.0.2",
+    "requests>=2.32.5",
+]
